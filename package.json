@@ -1,0 +1,19 @@
+{
+  "name": "db-challenge-2024-part1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "tsc": "tsc",
+    "test": "vitest --typecheck --reporter=verbose"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.3.3",
+    "vitest": "^1.2.0"
+  }
+}
